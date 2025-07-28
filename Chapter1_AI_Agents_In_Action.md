@@ -222,7 +222,10 @@ Checks if results are good
 >    This is what makes agents intelligent and flexible.
 
 MERMAID FLOWCHART:
-<img width="237" height="384" alt="Untitled diagram _ Mermaid Chart-2025-07-28-134709" src="https://github.com/user-attachments/assets/39ea743b-0033-46cf-949b-1e8cbf7e2c55" />
+
+
+
+<img width="1137" height="1384" alt="Untitled diagram _ Mermaid Chart-2025-07-28-134709" src="https://github.com/user-attachments/assets/39ea743b-0033-46cf-949b-1e8cbf7e2c55" />
 
 
 
