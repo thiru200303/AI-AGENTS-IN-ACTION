@@ -222,6 +222,10 @@ Checks if results are good
 >    This is what makes agents intelligent and flexible.
 
 
+<img width="2373" height="3840" alt="Untitled diagram _ Mermaid Chart-2025-07-28-134709" src="https://github.com/user-attachments/assets/39ea743b-0033-46cf-949b-1e8cbf7e2c55" />
+
+
+
 
 
 ```python
